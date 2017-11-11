@@ -1,0 +1,1 @@
+This corpus consist of 10 sentences. The first 5 sentences are about "Artificial Intelligence" (https://en.wikipedia.org/wiki/Artificial_intelligence) and the last 5 sentences about "Biology" (https://en.wikipedia.org/wiki/Biology)

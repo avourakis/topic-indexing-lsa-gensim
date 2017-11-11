@@ -1,0 +1,10 @@
+Artificial intelligence (AI, also machine intelligence, MI) is Intelligence displayed by machines, in contrast with the natural intelligence (NI) displayed by humans and other animals.
+AI research is defined as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its chance of success at some goal.
+The traditional problems (or goals) of AI research include reasoning, knowledge, planning, learning, natural language processing, perception and the ability to move and manipulate objects.
+Machine learning, a fundamental concept of AI research since the field's inception, is the study of computer algorithms that improve automatically through experience.
+Natural language processing gives machines the ability to read and understand human language.
+Biology is the natural science that involves the study of life and living organisms, including their physical and chemical structure, function, development and evolution.
+Although modern biology is a relatively recent development, sciences related to and included within it have been studied since ancient times.
+A central organizing concept in biology is that life changes and develops through evolution, and that all life-forms known have a common origin.
+One of the major unresolved problems in biology is the primary adaptive function of sex, and particularly its key processes in eukaryotes of meiosis and homologous recombination.
+It is also understood that all organisms survive by consuming and transforming energy and by regulating their internal environment.

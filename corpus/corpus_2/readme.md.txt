@@ -1,0 +1,1 @@
+This corpus consist of 10 sentences. The first 5 sentences are about "National Basketball Association (NBA)" (https://en.wikipedia.org/wiki/National_Basketball_Association) and the last 5 sentences about "Computer Science" (https://en.wikipedia.org/wiki/Computer_science)
